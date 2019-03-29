@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Juan Esteban Gallo/OneDrive - Universidad Icesi/Semestre VI/Redes y Comunicaciones/com.jcraft.jsch_0.1.31.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
